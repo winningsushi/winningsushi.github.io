@@ -3,6 +3,11 @@ description: Just another documentation theme compatible with GitHub Pages
 
 theme: null
 
+language: 'en-uk'
+# 언어 설정
+
+url: https://winningsushi.github.io
+
 # debug:
 #   compress: true
 #   dist: false
