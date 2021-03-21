@@ -2,18 +2,18 @@ title:              Winning_Sushi
 email:              shkim9808@naver.com
 description:        Python & stock
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            ""
 url:                "https://winningsushi.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   #SBootstrap
+github_username:    #StartBootstrap
+facebook_username:  #StartBootstrap
 instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   #UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
