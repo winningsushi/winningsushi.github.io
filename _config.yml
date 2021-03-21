@@ -1,15 +1,15 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+title:              Winning_Sushi
+email:              shkim9808@naver.com
+description:        Python & stock
 author:             Start Bootstrap
 baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+url:                "https://winningsushi.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
 github_username:    StartBootstrap
 facebook_username:  StartBootstrap
-instagram_username:  
+instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
